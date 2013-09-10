@@ -7,6 +7,11 @@ The Open Source Beehives project is a collaborative response to the threat faced
 
 These sensor enhanced hive designs are open and freely available online, the data collected from each hive is published together with geolocations allowing for a further comparison and analysis of the hives.
 
+## Collaboration Links
+
+[Open Source Beehives[(http://www.opensourcebeehives.net/)
+[Collaboration Forum](http://community.opensourcebeehives.net/)
+
 ##Project Partnerships
 
 The Open Source Beehive project is a collaboration between [Fablab Barcelona](http://fablabbcn.org/), [Open Tech Forever](www.opentechforever.com), and [Valldura](http://www.valldaura.net/).
