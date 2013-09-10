@@ -7,6 +7,14 @@ The Open Source Beehives project is a collaborative response to the threat faced
 
 These sensor enhanced hive designs are open and freely available online, the data collected from each hive is published together with geolocations allowing for a further comparison and analysis of the hives.
 
+##Project Partnerships
+
+The Open Source Beehive project is a collaboration between [Fablab Barcelona](http://fablabbcn.org/), [Open Tech Forever](www.opentechforever.com), and [Valldura](http://www.valldaura.net/).
+
+For partnership inquiries, please email:
+
+*info@opensourcebeehives.net*
+
 # Top Bar 2.0 Introduction
 
 The Open Source Top Bar 2.0 is designed to be produced using a CNC router. It can be made from a single sheet of plywood. This is a pre-beta version, because it does not include frames for the honeycombs, and we are convinced that the locking mechanism needs to be modified to a wedged mortise and tenon joint design.
