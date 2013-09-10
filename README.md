@@ -9,7 +9,8 @@ These sensor enhanced hive designs are open and freely available online, the dat
 
 ## Collaboration Links
 
-[Open Source Beehives[(http://www.opensourcebeehives.net/)
+[Open Source Beehives](http://www.opensourcebeehives.net/)
+
 [Collaboration Forum](http://community.opensourcebeehives.net/)
 
 ##Project Partnerships
