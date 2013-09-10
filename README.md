@@ -21,5 +21,7 @@ The Open Source Top Bar 2.0 is designed to be produced using a CNC router. It ca
 
 By October 5th, 2013, we will see a beta release version that will enter user testing.
 
+## About the Top Bar Design
+
 *A top-bar hive is a single-storey frameless bee hive in which the comb hangs from removeable bars. Hives that have frames or that use honey chambers in summer but which use similar management principles as regular top-bar hives are sometimes also referred to as top-bar hives. Top-bar hives are rectangular in shape and are typically more than twice as wide as multi-storey framed hives commonly found in English speaking countries. Top-bar hives are usually not portable, and allow beekeeping methods that interfere very little with the colony.*
 - [Wikipedia](http://en.wikipedia.org/wiki/Top-bar_hive)
