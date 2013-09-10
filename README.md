@@ -13,6 +13,14 @@ These sensor enhanced hive designs are open and freely available online, the dat
 
 [Collaboration Forum](http://community.opensourcebeehives.net/)
 
+[Github - Main Repositories](https://github.com/opensourcebeehives)
+
+[Twitter](https://twitter.com/search?q=%23opensourcebeehives)
+
+[Facebook](https://www.facebook.com/opensourcebeehives)
+
+[Donate](https://www.paypal.com/es/cgi-bin/webscr?cmd=_flow&SESSION=xN5iwGcPD04BsXKkkGOAwtqmWhK0ziTi_KQAvnt435SmxvAM0x32rMG5dG0&dispatch=5885d80a13c0db1f8e263663d3faee8d48a116ba977951b3435308b8c4dd4ef1)
+
 ##Project Partnerships
 
 The Open Source Beehive project is a collaboration between [Fablab Barcelona](http://fablabbcn.org/), [Open Tech Forever](www.opentechforever.com), and [Valldura](http://www.valldaura.net/).
