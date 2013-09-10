@@ -39,3 +39,7 @@ By October 5th, 2013, we will see a beta release version that will enter user te
 
 *A top-bar hive is a single-storey frameless bee hive in which the comb hangs from removeable bars. Hives that have frames or that use honey chambers in summer but which use similar management principles as regular top-bar hives are sometimes also referred to as top-bar hives. Top-bar hives are rectangular in shape and are typically more than twice as wide as multi-storey framed hives commonly found in English speaking countries. Top-bar hives are usually not portable, and allow beekeeping methods that interfere very little with the colony.*
 - [Wikipedia](http://en.wikipedia.org/wiki/Top-bar_hive)
+
+### Special Thanks
+
+Special thanks to Lenny Wayne Patterson for innovating the design and cadding it up, and Patrick Beseda for preparing the files for the CNC router.
