@@ -23,7 +23,7 @@ These sensor enhanced hive designs are open and freely available online, the dat
 
 ##Project Partnerships
 
-The Open Source Beehive project is a collaboration between [Fablab Barcelona](http://fablabbcn.org/), [Open Tech Forever](www.opentechforever.com), and [Valldura](http://www.valldaura.net/).
+The Open Source Beehive project is a collaboration between [Fablab Barcelona](http://fablabbcn.org/), [Open Tech Forever](www.opentechforever.com), and [Vallduara](http://www.valldaura.net/).
 
 For partnership inquiries, please email:
 
