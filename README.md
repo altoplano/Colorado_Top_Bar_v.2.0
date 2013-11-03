@@ -1,4 +1,4 @@
-Open Source Beehives - Top Bar 2.0
+Open Source Beehives - Colorado Top Bar 2.0
 =========
 
 # Project Overview
@@ -29,9 +29,9 @@ For partnership inquiries, please email:
 
 *info@opensourcebeehives.net*
 
-# Top Bar 2.0 Introduction
+# Colorado Top Bar 2.0 Introduction
 
-The Open Source Top Bar 2.0 is designed to be produced using a CNC router. It can be made from a single sheet of plywood. This is a pre-beta version, because it does not include frames for the honeycombs, and we are convinced that the locking mechanism needs to be modified to a wedged mortise and tenon joint design.
+The Open Source Colorado Top Bar 2.0 is designed to be produced using a CNC router. It can be made from a single sheet of plywood. This is a pre-beta version, because it does not include frames for the honeycombs, and we are convinced that the locking mechanism needs to be modified to a wedged mortise and tenon joint design.
 
 By October 5th, 2013, we will see a beta release version that will enter user testing.
 
